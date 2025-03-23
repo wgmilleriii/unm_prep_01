@@ -1,0 +1,25 @@
+# Ignore all files
+*
+
+# Except .md files
+!*.md
+
+# Except .gitignore
+!.gitignore
+
+# Keep .md files in all directories
+!*/
+!*/*.md
+!*/*/
+!*/*/*.md
+!*/*/*/
+!*/*/*/*.md
+!*/*/*/*/
+!*/*/*/*/*.md
+!*/*/*/*/*/
+!*/*/*/*/*/*.md
+!*/*/*/*/*/*/
+!*/*/*/*/*/*/*.md
+!*/*/*/*/*/*/*/
+!*/*/*/*/*/*/*/*.md
+!*/*/*/*/*/*/*/*/ 
