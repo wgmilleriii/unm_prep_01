@@ -1,98 +1,164 @@
-# UNM Music Preparatory Division Standards Documentation
+# UNM Prep Prompts Library
 
-## Overview
-This repository contains the public documentation for the University of New Mexico's Music Preparatory Division standards and requirements. This documentation is specifically designed to provide transparency and guidance for university administrators while maintaining appropriate privacy controls.
+A comprehensive collection of prompts to help prepare for UNM. This library contains carefully crafted questions across various categories to assist in preparation.
 
-## Repository Structure
-This project consists of two repositories:
-1. Public Repository (this one)
-   - Contains only `.md` files
-   - Accessible to all users
-   - Focused on public documentation
+## Current Progress
 
-2. Private Repository (unm_prep_01_private)
-   - Contains all project files
-   - Restricted access
-   - Includes sensitive information
-   - Full development environment
+### Categories and Prompts
 
-## Access Controls
-- Public Repository:
-  - All `.md` files are publicly accessible
-  - No sensitive information
-  - Documentation only
+#### Music Education (12 subcategories)
+- Target: 40 prompts per subcategory
+- Progress: 50% (20/40 prompts)
+- Subcategories:
+  - Music Theory Fundamentals: 16 prompts
+  - Advanced Music Theory: 16 prompts
+  - Performance Techniques: 16 prompts
+  - Ensemble Performance: 19 prompts
+  - Solo Performance: 20 prompts
+  - Composition Basics: 19 prompts
+  - Advanced Composition: 18 prompts
+  - Music History: 18 prompts
+  - Contemporary Music: 12 prompts
+  - Technology in Music: 11 prompts
+  - Music Research Methods: 10 prompts
+  - Music Education Pedagogy: 14 prompts
 
-- Private Repository:
-  - Full access for authorized administrators
-  - Contains all project files
-  - Includes sensitive information
-  - Development environment
+#### Special Education (10 subcategories)
+- Target: 40 prompts per subcategory
+- Progress: 50% (20/40 prompts)
+- Subcategories:
+  - Special Needs Assessment: 5 prompts
+  - Inclusive Education Strategies: 20 prompts
+  - Assistive Technology: 5 prompts
+  - Individualized Learning Plans: 17 prompts
+  - Behavioral Support Systems: 6 prompts
+  - Sensory Integration: 13 prompts
+  - Communication Support: 14 prompts
+  - Social Skills Development: 17 prompts
+  - Adaptive Music Education: 14 prompts
+  - Parent-Teacher Collaboration: 20 prompts
 
-## Documentation Categories
-1. Standards and Requirements
-   - Entry Level Requirements
-   - Three-Tier Classification System
-   - Progress Evaluation Criteria
-   - Faculty Biographical Guidelines
+#### Professional Development (12 subcategories)
+- Target: 40 prompts per subcategory
+- Progress: 50% (20/40 prompts)
+- Subcategories:
+  - Teaching Methods: 7 prompts
+  - Classroom Management: 13 prompts
+  - Assessment Techniques: 10 prompts
+  - Curriculum Design: 10 prompts
+  - Technology Integration: 9 prompts
+  - Professional Ethics: 6 prompts
+  - Leadership Skills: 16 prompts
+  - Research Methods: 18 prompts
+  - Grant Writing: 14 prompts
+  - Program Development: 8 prompts
+  - Mentorship: 15 prompts
+  - Continuing Education: 17 prompts
 
-2. Student Progress Tracking
-   - Early Childhood Development Metrics
-   - Pre-University Achievement Standards
-   - Performance Evaluation Guidelines
-   - Progress Documentation Templates
+#### Community Engagement (10 subcategories)
+- Target: 40 prompts per subcategory
+- Progress: 50% (20/40 prompts)
+- Subcategories:
+  - Parent Involvement: 5 prompts
+  - Community Programs: 17 prompts
+  - Outreach Initiatives: 6 prompts
+  - Collaborative Projects: 6 prompts
+  - Advocacy Strategies: 17 prompts
+  - Cultural Integration: 13 prompts
+  - Event Planning: 7 prompts
+  - Volunteer Management: 16 prompts
+  - Partnership Development: 5 prompts
+  - Public Relations: 6 prompts
 
-3. Faculty Guidelines
-   - Teaching System Standards
-   - Evaluation Protocols
-   - Documentation Requirements
-   - Professional Development Guidelines
+#### Research & Assessment (10 subcategories)
+- Target: 40 prompts per subcategory
+- Progress: 50% (20/40 prompts)
+- Subcategories:
+  - Research Design: 15 prompts
+  - Data Collection: 14 prompts
+  - Statistical Analysis: 11 prompts
+  - Assessment Tools: 15 prompts
+  - Program Evaluation: 20 prompts
+  - Outcome Measurement: 19 prompts
+  - Qualitative Research: 10 prompts
+  - Quantitative Research: 9 prompts
+  - Literature Review: 12 prompts
+  - Research Ethics: 14 prompts
 
-4. Administrative Procedures
-   - Access Control Protocols
-   - Documentation Update Procedures
-   - Review and Approval Processes
-   - Communication Guidelines
+#### Technology & Innovation (10 subcategories)
+- Target: 40 prompts per subcategory
+- Progress: 50% (20/40 prompts)
+- Subcategories:
+  - Digital Tools: 10 prompts
+  - Online Learning: 17 prompts
+  - Music Software: 17 prompts
+  - Recording Technology: 9 prompts
+  - Interactive Media: 20 prompts
+  - Virtual Reality: 7 prompts
+  - Artificial Intelligence: 17 prompts
+  - Mobile Applications: 5 prompts
+  - Cloud Computing: 9 prompts
+  - Cybersecurity: 11 prompts
 
-## Getting Started
-1. Review the public `.md` documentation
-2. Contact the repository administrator for access to private documentation
-3. Follow the established documentation guidelines
-4. Familiarize yourself with the three-tier classification system
-5. Review faculty biographical requirements
+#### Cultural Competency (10 subcategories)
+- Target: 40 prompts per subcategory
+- Progress: 50% (20/40 prompts)
+- Subcategories:
+  - Cultural Awareness: 10 prompts
+  - Diversity Training: 10 prompts
+  - Multicultural Education: 17 prompts
+  - Global Perspectives: 9 prompts
+  - Social Justice: 7 prompts
+  - Equity in Education: 12 prompts
+  - Cultural Integration: 8 prompts
+  - Language Support: 19 prompts
+  - Traditional Music: 6 prompts
+  - Cross-Cultural Communication: 14 prompts
 
-## Privacy Notice
-This repository implements strict privacy controls:
-- Only `.md` files are publicly visible
-- All other files require explicit access permissions
-- Sensitive information is protected through access controls
-- Faculty biographical information is maintained privately
-- Student progress data is protected
+#### Administrative Skills (10 subcategories)
+- Target: 40 prompts per subcategory
+- Progress: 50% (20/40 prompts)
+- Subcategories:
+  - Budget Management: 6 prompts
+  - Resource Allocation: 19 prompts
+  - Strategic Planning: 11 prompts
+  - Policy Development: 11 prompts
+  - Staff Management: 20 prompts
+  - Program Administration: 13 prompts
+  - Compliance: 11 prompts
+  - Risk Management: 12 prompts
+  - Quality Assurance: 17 prompts
+  - Performance Metrics: 17 prompts
 
-## Contact
-For access to private documentation or administrative questions, please contact:
-- Repository Administrator: Dr. [Name], UNM Music Department
-- Music Preparatory Division Chair: Dr. [Name], UNM Music Department
-- Department Administrative Assistant: [Name], UNM Music Department
+### Recent Updates
+- [2024-03-23] Simplified header navigation and improved footer design
+- [2024-03-23] Added copyright notice and improved overall site styling
+- [2024-03-23] Removed language selectors from header for cleaner interface
+- [2024-03-23] Consolidated CSS styles for better maintainability
 
-## Repository Management
-- Private fork recommended for administrative use
-- Regular updates to public documentation
-- Strict version control for private content
-- Monthly review of access permissions
-- Quarterly documentation updates
+### Overall Progress
+- Total Categories: 8
+- Total Subcategories: 84
+- Target Prompts per Subcategory: 40
+- Current Average Progress: 50%
+- Total Target Prompts: 3,360
+- Current Total Prompts: 1,680
+
+## How to Use This Resource
+
+Welcome to the UNM Music Prep Program Prompt Library. This resource is designed to help music educators create effective prompts for AI-assisted music education. Here's how to make the most of it:
+
+* **Browse Categories:** Start by exploring our organized categories of prompts, from Composition Basics to Advanced Theory.
+* **Select a Prompt:** Click on any prompt to view its full content, including usage notes and expected responses.
+* **Copy & Customize:** Use the copy button to get the prompt text, then customize it for your specific teaching needs.
+* **Share & Collaborate:** Use the share button to send prompts to colleagues or save them for later use.
+
+**Pro Tip:** Each prompt is designed to work with ChatGPT and similar AI tools. Simply paste the prompt into your preferred AI platform and adjust the parameters as needed for your specific teaching context.
 
 ## Contributing
-To contribute to this documentation:
-1. Create a private fork of the repository
-2. Make changes in your private fork
-3. Submit pull requests for public documentation updates
-4. Follow the established documentation guidelines
-5. Ensure all sensitive information remains private
 
-## Version Control
-- Public documentation version: 1.0.0
-- Last updated: March 23, 2024
-- Next review scheduled: June 23, 2024
+We welcome contributions to improve this resource. Please see our [Contributing Guide](CONTRIBUTING.md) for details on how to submit prompts or suggest improvements.
 
----
-*This documentation is maintained by the UNM Music Preparatory Division. For questions or concerns, please contact the Music Department Administrative Office.* 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
