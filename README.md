@@ -3,23 +3,30 @@
 ## Overview
 This repository contains the public documentation for the University of New Mexico's Music Preparatory Division standards and requirements. This documentation is specifically designed to provide transparency and guidance for university administrators while maintaining appropriate privacy controls.
 
-## Purpose
-The UNM Music Preparatory Division aims to:
-- Establish clear standards for student acceptance into the music program
-- Define three tiers of entry classification
-- Provide a unified system for evaluating student progress
-- Support early identification of student potential
-- Enable systematic training before university enrollment
-
 ## Repository Structure
-- All `.md` files are publicly accessible
-- All other files are private and require appropriate access permissions
-- Documentation is organized by category and access level
+This project consists of two repositories:
+1. Public Repository (this one)
+   - Contains only `.md` files
+   - Accessible to all users
+   - Focused on public documentation
+
+2. Private Repository (unm_prep_01_private)
+   - Contains all project files
+   - Restricted access
+   - Includes sensitive information
+   - Full development environment
 
 ## Access Controls
-- Public Access: All `.md` files
-- Private Access: All other files require explicit permissions
-- Administrative Access: Full repository access for authorized administrators
+- Public Repository:
+  - All `.md` files are publicly accessible
+  - No sensitive information
+  - Documentation only
+
+- Private Repository:
+  - Full access for authorized administrators
+  - Contains all project files
+  - Includes sensitive information
+  - Development environment
 
 ## Documentation Categories
 1. Standards and Requirements
