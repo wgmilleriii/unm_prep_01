@@ -1,78 +1,54 @@
-# Advanced Teacher Handover Prompt 002
+# Private Teacher to Institution Transition Template
 
-## Purpose
-Create a comprehensive system for managing complex teacher handovers in specialized music programs, including multiple stakeholders, advanced documentation requirements, and extended transition periods.
+## Context
+Create a comprehensive transition document for a student moving from private instruction to an institutional music program.
 
-## Prompt Template
-```
-Create an advanced teacher handover system for a specialized music program with the following characteristics:
-- Handover Complexity: [MULTIPLE_PROGRAMS/INTERDISCIPLINARY/INTERNATIONAL]
-- Program Specialization: [PERFORMANCE/COMPOSITION/THEORY/RESEARCH]
-- Documentation Requirements: [LEGAL/ACCREDITATION/INTERNATIONAL]
-- Transition Period: [EXTENDED/PHASED/ONGOING]
-- Support Level: [COMPREHENSIVE/INTERNATIONAL/SPECIALIZED]
+## Requirements
+1. Student Profile
+   - Current age and level
+   - Years of study
+   - Learning style and preferences
+   - Any special needs or accommodations
+   - Previous institutional experience (if any)
 
-Please provide:
-1. Advanced handover framework
-2. Specialized documentation
-3. Complex communication strategy
-4. Extended support systems
-```
+2. Academic and Musical Background
+   - Current pieces and technical level
+   - Completed repertoire
+   - Theory and musicianship skills
+   - Performance experience
+   - Ensemble experience (if any)
 
-## Expected Response Format
-1. Advanced Handover Framework
-   - International coordination
-   - Multi-program management
-   - Complex timeline planning
-   - Resource optimization
-   - Risk mitigation
-   - Quality control systems
+3. Progress Assessment
+   - Current strengths and areas for improvement
+   - Technical and musical development
+   - Practice habits and routines
+   - Parent involvement level
+   - Learning style and preferences
 
-2. Specialized Documentation
-   - International standards
-   - Accreditation requirements
-   - Legal compliance
-   - Program specifications
-   - Student portfolios
-   - Assessment records
-   - Special accommodations
-   - Cultural considerations
+4. Institutional Requirements
+   - Required audition materials
+   - Program prerequisites
+   - Expected skill levels
+   - Required documentation
+   - Program structure and expectations
 
-3. Complex Communication Strategy
-   - Multi-language support
-   - Cross-cultural communication
-   - Stakeholder management
-   - Progress tracking
-   - Issue resolution
-   - Status reporting
-   - Crisis management
-   - Feedback systems
+5. Parent Communication
+   - Parent's goals and expectations
+   - Financial considerations
+   - Transportation and scheduling needs
+   - Parent's role in the institutional setting
+   - Communication preferences
 
-4. Extended Support Systems
-   - International transition team
-   - Resource coordination
-   - Training programs
-   - Mentoring systems
-   - Emergency protocols
-   - Cultural adaptation
-   - Language support
-   - Technical assistance
+## Format
+Create a structured document that:
+1. Aligns with institutional requirements
+2. Highlights student's readiness for institutional study
+3. Identifies potential areas for support
+4. Includes recommendations for successful transition
 
-## Usage Notes
-- Address international scenarios
-- Ensure cross-cultural sensitivity
-- Maintain quality standards
-- Support all stakeholders
-- Enable smooth transition
-- Consider time zones
-- Handle language barriers
-- Respect cultural differences
-
-## Related Prompts
-- TEACHER_TRANSITION_001.md (Transition Management)
-- TEACHER_TRANSITION_003.md (Institutional Transitions)
-- TEACHER_TRANSITION_004.md (Parent Exit Interviews)
-
----
-Last Updated: March 23, 2024
-Next Review: June 23, 2024 
+## Additional Considerations
+- Include any relevant medical or physical considerations
+- Note any specific learning accommodations
+- Document any special equipment or materials used
+- Include contact information for all parties
+- Note any specific institutional policies or requirements 

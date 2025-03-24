@@ -1,65 +1,48 @@
-# Teacher Transition Prompt 001
+# Private Teacher to Private Teacher Transition Template
 
-## Purpose
-Create a comprehensive system for managing teacher transitions in music education, ensuring smooth handover of student progress and maintaining educational continuity.
+## Context
+Create a comprehensive transition document for a student moving from one private teacher to another.
 
-## Prompt Template
-```
-Create a teacher transition system for a music program with the following characteristics:
-- Transition Type: [PRIVATE_TO_PRIVATE/PRIVATE_TO_INSTITUTION/INSTITUTION_TO_PRIVATE]
-- Student Level: [BEGINNER/INTERMEDIATE/ADVANCED]
-- Transition Timeline: [IMMEDIATE/GRADUAL/PLANNED]
-- Documentation Level: [BASIC/COMPREHENSIVE/DETAILED]
-- Support Requirements: [MINIMAL/MODERATE/INTENSIVE]
+## Requirements
+1. Student Information
+   - Current age and level
+   - Years of study
+   - Learning style and preferences
+   - Any special needs or accommodations
 
-Please provide:
-1. Transition framework
-2. Documentation process
-3. Communication strategy
-4. Support systems
-```
+2. Repertoire History
+   - Current pieces being studied
+   - Completed pieces in the last 6 months
+   - Technical exercises and methods in use
+   - Performance history and achievements
 
-## Expected Response Format
-1. Transition Framework
-   - Timeline planning
-   - Role responsibilities
-   - Handover procedures
-   - Progress assessment
-   - Resource transfer
+3. Progress Assessment
+   - Current strengths and areas for improvement
+   - Recent technical breakthroughs
+   - Practice habits and routines
+   - Parent involvement level
 
-2. Documentation Process
-   - Student records
-   - Progress reports
-   - Repertoire history
-   - Learning objectives
-   - Special considerations
+4. Teaching Methods
+   - Current teaching approach
+   - Effective strategies used
+   - Practice techniques that work well
+   - Any specific challenges or solutions
 
-3. Communication Strategy
-   - Stakeholder notification
-   - Meeting schedules
-   - Progress updates
-   - Feedback channels
-   - Follow-up procedures
+5. Parent Communication
+   - Preferred communication methods
+   - Parent's goals and expectations
+   - Any concerns or special considerations
+   - Parent's role in practice sessions
 
-4. Support Systems
-   - Student support
-   - Parent guidance
-   - Teacher assistance
-   - Administrative help
-   - Resource access
+## Format
+Create a structured document that:
+1. Captures all essential information clearly
+2. Highlights important progress markers
+3. Provides specific examples and anecdotes
+4. Includes recommendations for the new teacher
 
-## Usage Notes
-- Maintain student progress
-- Ensure clear communication
-- Preserve relationships
-- Support smooth transition
-- Document all processes
-
-## Related Prompts
-- TEACHER_TRANSITION_002.md (Advanced Handover)
-- TEACHER_TRANSITION_003.md (Institutional Transitions)
-- TEACHER_TRANSITION_004.md (Parent Exit Interviews)
-
----
-Last Updated: March 23, 2024
-Next Review: June 23, 2024 
+## Additional Considerations
+- Include any relevant medical or physical considerations
+- Note any specific learning accommodations
+- Document any special equipment or materials used
+- Include contact information for both teachers 
